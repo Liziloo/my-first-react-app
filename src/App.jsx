@@ -1,14 +1,14 @@
 
 import './App.css'
+import Person from './Person'
 
 function App() {
 
   return (
-    <>
-      <div>
-        <h1>Hello, World!</h1>
-      </div>
-    </>
+    <div>
+      <Person />
+    </div>
+
   )
 }
 
